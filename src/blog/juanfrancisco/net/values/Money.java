@@ -19,5 +19,9 @@ public class Money {
         }
     }
 
+    public int getPriceInCurrency(String currency){
+
+        return 0;
+    }
 
 }

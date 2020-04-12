@@ -12,4 +12,12 @@ import lombok.NoArgsConstructor;
 public class Stock {
     private String locationInWarehouseCode;
     private int quantityOnStock;
+
+    public void checkStock(){
+
+    }
+
+
+
+
 }
